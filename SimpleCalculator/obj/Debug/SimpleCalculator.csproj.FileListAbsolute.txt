@@ -75,3 +75,13 @@ C:\Users\migue\Desktop\Tonya school\CIS 123\TEAM ASSIGNMENTS\SimpleCalculator wi
 C:\Users\migue\Desktop\Tonya school\CIS 123\TEAM ASSIGNMENTS\SimpleCalculator with exception handling\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
 C:\Users\migue\Desktop\Tonya school\CIS 123\TEAM ASSIGNMENTS\SimpleCalculator with exception handling\SimpleCalculator\obj\Debug\SimpleCalculator.exe
 C:\Users\migue\Desktop\Tonya school\CIS 123\TEAM ASSIGNMENTS\SimpleCalculator with exception handling\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\8440\Source\Repos\CISTeamWork\Exercise-7-1-SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
